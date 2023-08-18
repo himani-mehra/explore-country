@@ -225,6 +225,7 @@ header {
   align-items: center;
   padding: 2rem 2.5rem;
   border-radius: 7px;
+  cursor: pointer;
 }
 
 .filter__options {
